@@ -1,0 +1,13 @@
+Player's name:
+Game started:2025-05-16 17:46:05.600950
+
+
+Human
+Total moves 61
+Black hole hits 61
+Won the game
+
+Computer
+Total moves 60
+Black hole hits 60
+Lost the game
