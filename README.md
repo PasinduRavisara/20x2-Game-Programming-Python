@@ -1,6 +1,6 @@
 # 🎮 20x2 Game – Python Console Game
 
-The **20x2 Game** is a simple Python console-based game where players aim to reach a target score by making strategic moves. It’s a lightweight project designed for practicing Python programming fundamentals while having fun.
+The **20x2 Game** is a simple Python console-based game where players aim to reach a target score by making strategic moves.
 
 ---
 
